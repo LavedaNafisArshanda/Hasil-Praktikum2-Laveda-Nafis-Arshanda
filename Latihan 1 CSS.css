@@ -1,0 +1,16 @@
+
+<style media="screen">
+  div{
+	width: 80%;
+	margin: 0 auto;
+	height: 100px;
+     }
+	.bgcolor{ background-color: #ff4533; }
+    .bgimage{ background-image: url("batako.jpg") ; }
+    .bgpostion{
+        height: 350px;
+        background: url("SMK\ Telkom\ Malang.jpg") #820008 no-repeat left;
+    }
+    .gradien1{ background:linear-gradient(to right, red, yellow, green) ; }
+    .gradien2{ background-linear-gradient(red, yellow, pink) ;}
+    </style>
